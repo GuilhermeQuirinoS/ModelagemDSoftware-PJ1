@@ -21,7 +21,7 @@ Projeto 01 para matéria de Modelagem de Software Orientado a Objeto, visando um
   
 A documentação está disponível na Wiki do repositório, basta clicar no botão abaixo: 
 
-<a href="https://github.com/akajhon/project02/wiki" target="_blank">
+<a href="https://github.com/GuilhermeQuirinoS/ModelagemDSoftware-PJ1/wiki" target="_blank">
   <img alt="a" src="https://img.shields.io/badge/read-documentation-blue?style=for-the-badge">
 </a>
 
