@@ -32,10 +32,10 @@ A documentação está disponível na Wiki do repositório, basta clicar no bot�
 
 <div align="center">
 
-| <img src="https://avatars.githubusercontent.com/u/92953738?v=4" alt="Joao" width="150"/> | <img src="https://avatars.githubusercontent.com/u/92953738?v=4" alt="Joao" width="150"/>
+| <img src="https://avatars.githubusercontent.com/u/92953738?v=4" alt="Joao" width="150"/> | <img src="https://avatars.githubusercontent.com/u/101812495?v=4" alt="Joao" width="150"/>
 |:------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------:
-| [Guilherme Quirino dos Santos](https://github.com/GuilhermeQuirinoS)| [Matheus Arcanjo]([https://github.com/Pajé](https://github.com/MTSarcanjo)|                                 
-| R.A: 22.221.067-6                                    | R.A:    |     
+| [Guilherme Quirino dos Santos](https://github.com/GuilhermeQuirinoS)| [Matheus Arcanjo](https://github.com/MTSarcanjo)|                                 
+| R.A: 22.221.067-6                                    | R.A: 22.221.020-5   |     
 
 </div>
 
