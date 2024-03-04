@@ -34,7 +34,7 @@ A documentação está disponível na Wiki do repositório, basta clicar no bot�
 
 | <img src="https://avatars.githubusercontent.com/u/92953738?v=4" alt="Joao" width="150"/> | <img src="https://avatars.githubusercontent.com/u/92953738?v=4" alt="Joao" width="150"/>
 |:------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------:
-| [Guilherme Quirino dos Santos](https://github.com/GuilhermeQuirinoS)| [PAJÉ](https://github.com/Pajé)|                                 
+| [Guilherme Quirino dos Santos](https://github.com/GuilhermeQuirinoS)| [Matheus Arcanjo]([https://github.com/Pajé](https://github.com/MTSarcanjo)|                                 
 | R.A: 22.221.067-6                                    | R.A:    |     
 
 </div>
